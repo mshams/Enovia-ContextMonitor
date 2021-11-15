@@ -1,0 +1,3 @@
+add portal Ext_MonitorContextPortal description "Monitor Context" label "Monitor Context"
+  channel Ext_MonitorContextSessions
+  channel Ext_MonitorContextSummary;

@@ -1,6 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+**/*.log
+**/*.bat
 # Datasource local storage ignored files
 /../../../../../../../../:\users\m_admin\nextcloud\Docs\java\Eno-Context\.idea/dataSources/
 /dataSources.local.xml
