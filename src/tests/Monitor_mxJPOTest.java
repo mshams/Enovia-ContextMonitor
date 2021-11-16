@@ -20,8 +20,7 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
 import java.io.File;
 
-import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.*;
 
 class Monitor_mxJPOTest {
     private static Context ctx;
@@ -74,7 +73,7 @@ class Monitor_mxJPOTest {
             System.out.println(obj.toString());
         } catch (MatrixException e) {
             e.printStackTrace();
-            assertTrue(false);
+            fail();
         }
     }
 }
