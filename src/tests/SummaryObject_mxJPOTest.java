@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2021.
+ * @author Muhammad Shams - mshamsj@gmail.com
+ * @version 1.0
+ *
+ */
+
 package tests;
 
 import jpo.dto.SummaryObject_mxJPO;
