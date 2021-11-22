@@ -1,0 +1,3520 @@
+<!--
+  ~ Copyright (c) 2021.
+  ~ @author Muhammad Shams - mshamsj@gmail.com
+  ~ @version 1.0
+  ~
+  -->
+
+<monitorContext
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="file:///C:/DassaultSystemes/3DSpace/xml/mc.xsd">
+
+    <objectCount>247</objectCount>
+    <contextObject>
+        <sessionId><![CDATA[09AC7B7E86173DA9A51C7FA70AA66956]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P17H46M32S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[09AC7B7E86173DA9A51C7FA70AA66956:mx12253193920:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P18H20M30S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[09AC7B7E86173DA9A51C7FA70AA66956:mx15434074280:(emxNavigatorToolbar_jsp.java:2433)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P18H20M27S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[0AB4EAEDABEE66B0678E87B14203C7AF]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT1H11M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[0AB4EAEDABEE66B0678E87B14203C7AF:mx11605775170:(emxEngrValidation_jsp.java:302)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16456</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P1DT2H13M39S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[0AB4EAEDABEE66B0678E87B14203C7AF:mx4579235970:(emxEngineeringCentralFormValidation_jsp.java:298)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P1DT1H42M37S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[0AB4EAEDABEE66B0678E87B14203C7AF:mx8584725870:(emxEngineeringCentralFormCreateValidation_jsp.java:296)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>open.bosPolicy</command>
+        <idle>P1DT2H14M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[1312E60DA6C17B912B038F787DBED8EA]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P4DT33M44S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[1312E60DA6C17B912B038F787DBED8EA:mx1792875460:(emxCreateProcess_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P4DT1H5M21S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[16D948A8E5FD2C1264604215283EC6AB]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT14H26M27S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[16D948A8E5FD2C1264604215283EC6AB:mx11734743490:(emxCreateProcess_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT17H12M45S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[16D948A8E5FD2C1264604215283EC6AB:mx20299036100:(emxCreateProcess_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT17H12M21S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[19266213B3CEB51275CF285F88CB82B5]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P17H13M37S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[19266213B3CEB51275CF285F88CB82B5:mx10154339700:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P17H46M15S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[19266213B3CEB51275CF285F88CB82B5:mx15377484510:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx8222437810:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P17H46M15S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P15H35M33S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx12177356490:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H56M19S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx12177356490:(emxNavigator_jsp.java:481):mx135181690:2195BC942A8DA09D2F61FF7833C1FE7D:mx12177356490:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[User Agent]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>7356</thread>
+        <command>commit.bosContext</command>
+        <idle>P16H56M20S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx1482155060:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P16H55M37S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx16670524610:(emxIndentedTable_jsp.java:393)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H33M36S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx20485498490:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P16H56M2S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx20723675590:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx13118846340:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P16H56M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx3669984960:(IEFCommandsServlet.java:187)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H55M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx5895311250:(emxIndentedTable_jsp.java:393)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H19M18S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx7261217970:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P16H52M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx9208438960:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P16H33M36S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[2195BC942A8DA09D2F61FF7833C1FE7D:mx9346402950:(emxIndentedTable_jsp.java:393)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H52M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx10006791160:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M26S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx10318797750:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P3M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx10401232820:(emxRunMQL_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1082798530:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P5M42S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx10919946800:(emxIndentedTable_jsp.java:393)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx10935864790:(emxPortalDisplay_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx10950290640:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11127266090:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>invokeClass.bosInterface</command>
+        <idle>P3M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11131316400:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11296201810:(emxLibraryCentralInitialize_jsp.java:215)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>set.bosContext</command>
+        <idle>P5M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11360075410:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11451743960:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11489736080:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11641040000:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx11868020040:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1195438260:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>commit.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12001197250:(emxPortalDisplay_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M26S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12254699330:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>invokeClass.bosInterface</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12262210210:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P5M21S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12296638340:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>set.bosContext</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12505809760:(emxPortalDisplay_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1253870700:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12620166480:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>commit.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12800334550:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx128758230:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx12998222080:(emxToolbar_jsp.java:2427)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>set.bosContext</command>
+        <idle>P5M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13061950470:(emxRunMQL_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1306559570:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13099142460:(emxUIConstantsJavaScriptInclude_jsp.java:376)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>open.bosBusinessObject</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13160738100:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P5M23S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13284098960:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13336525650:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13462840690:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx13974193660:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14528284610:(DSCForm_jsp.java:405)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14591183340:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14594627570:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>commit.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14664437170:(emxUIConstantsJavaScriptInclude_jsp.java:376)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>open.bosBusinessObject</command>
+        <idle>P5M28S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14691700030:(emxNavigatorToolbar_jsp.java:2433)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M28S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14708346190:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1475160040:(emxPortal_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx14936389500:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>set.bosContext</command>
+        <idle>P5M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx15434130320:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx15505590360:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P5M40S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1554195670:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>invokeClass.bosInterface</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx15638995330:(emxRunMQL_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx15716338160:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx3089909420:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>3628</thread>
+        <command>update.bosBusinessObject</command>
+        <idle>P5M49S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx15770252420:(emxClientSideInfoProcessing_jsp.java:386)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx15866593570:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>set.bosContext</command>
+        <idle>P5M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx16521811590:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>invokeClass.bosInterface</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17003103660:(emxShortcutGetData_jsp.java:379)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17345332030:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17450111340:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17566892710:(emxPortalDisplay_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17733091270:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17888696920:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx17973909820:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16456</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P3M54S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18080265300:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>commit.bosContext</command>
+        <idle>P3M59S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18246210560:(emxToolbar_jsp.java:2427)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18489284910:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>set.bosContext</command>
+        <idle>P5M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18496156670:(emxClientSideInfoProcessing_jsp.java:386)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M28S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx1858846870:(emxFreezePaneGetData_jsp.java:406)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>commit.bosContext</command>
+        <idle>P3M54S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18690225810:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>set.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18739447530:(emxNavigatorContentLoad_jsp.java:421)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18812524850:(emxUIConstantsJavaScriptInclude_jsp.java:376)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>open.bosBusinessObject</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18842927840:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18869026410:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P5M28S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx18928417290:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M26S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19403906600:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>invokeClass.bosInterface</command>
+        <idle>P3M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19532340050:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19553310790:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19607821640:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P5M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19607821640:(emxNavigator_jsp.java:481):mx14559159610:33DB7234A515D98495FF9CBC99B9FFA0:mx19607821640:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[User Agent]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>14284</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19725897210:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>set.bosContext</command>
+        <idle>P5M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx19899735490:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20023908760:(emxFreezePaneGetData_jsp.java:406)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M40S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20175222530:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20420148930:(emxNavigatorToolbar_jsp.java:2433)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P4M0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20460901150:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>invokeClass.bosInterface</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20634033030:(emxCommonAppInitialization_jsp.java:103)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P5M29S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20680635120:(emxNavigatorContentLoad_jsp.java:421)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16456</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P3M59S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx20898965520:(emxToolbar_jsp.java:2427)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>set.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx21047579210:(emxFreezePaneCleanupSession_jsp.java:380)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>set.bosContext</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx21182498960:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx21296068240:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx21382729810:(emxNavigatorContentLoad_jsp.java:421)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P5M27S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx2333670020:(emxIndentedTable_jsp.java:393)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx2372901710:(ief_jsp.java:381)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getAttributeValues.bosBusinessObject</command>
+        <idle>P4M0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx237457940:(emxPortal_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx2391509590:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx248655060:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx2494780020:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx2762381350:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx2828818700:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>abort.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx3110223950:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>set.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx3246639050:(emxRunMQL_jsp.java:395)]]></sessionId>
+        <current>true</current>
+        <busy>true</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>executeCmd.bosMQLCommand</command>
+        <active>P0S</active>
+        <session>
+            <transActive>true</transActive>
+            <db_id>unknown</db_id>
+            <transUpdate>false</transUpdate>
+            <transWait>true</transWait>
+            <transAborting>false</transAborting>
+        </session>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx3263723240:(emxPortal_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M26S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx3871226780:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M26S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx4010055170:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx4607994080:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P3M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx4709125110:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx4917723710:(emxTree_jsp.java:437)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>commit.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5026270970:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5041027190:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5047489630:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5206165320:(emxFreezePaneCleanupSession_jsp.java:380)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P2S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5447964620:(ief_jsp.java:381)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getAttributeValues.bosBusinessObject</command>
+        <idle>P5M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5552200550:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P4M0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx5687792700:(emxMQLNoticeWrapper_jsp.java:384)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P3M54S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx6381927970:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx6452567780:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>abort.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx6530943420:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P3M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7150551600:(emxCommonAppInitialization_jsp.java:103)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7158948240:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>set.bosContext</command>
+        <idle>P5M29S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7172830740:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>set.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7381337530:(emxLibraryCentralInitialize_jsp.java:215)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>set.bosContext</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7405471560:(emxNavigatorToolbar_jsp.java:2433)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7550313270:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7594586400:(emxCommonAppInitialization_jsp.java:103)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P5M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx7795316130:(emxPortal_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P3M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx8116236810:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx8242659390:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16456</thread>
+        <command>set_customData.bosContext</command>
+        <idle>P3M54S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx8270051450:(emxNavigatorErrorPage_jsp.java:126)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx854467220:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>set.bosContext</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx8661096870:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>set.bosContext</command>
+        <idle>P5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx8729780560:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9129178970:(i18n.java:127)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>set.bosContext</command>
+        <idle>P5M22S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9186991910:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9228259000:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9245204150:(ief_jsp.java:381)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getAttributeValues.bosBusinessObject</command>
+        <idle>P5M27S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9493308990:(emxMQLNoticeWrapper_jsp.java:384)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M40S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9523922700:(emxClientSideInfoProcessing_jsp.java:386)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P4M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9570518520:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P5M40S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx989546830:(emxToolbarJavaScript_jsp.java:2454)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P5M46S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9934671690:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[33DB7234A515D98495FF9CBC99B9FFA0:mx9975196980:(emxLibraryCentralInitialize_jsp.java:215)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>set.bosContext</command>
+        <idle>P5M29S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[4AD39ABF8A71E6B6DC29F5815BBC719D]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT15H1M21S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[4AD39ABF8A71E6B6DC29F5815BBC719D:mx12673531240:(emxCreateProcess_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT15H52M42S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[4F345A5EF929B4698F7ED094C803D6FF]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P2DT9M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[4F345A5EF929B4698F7ED094C803D6FF:mx3196334650:(IEFCommandsServlet.java:187)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P2DT9M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[61126CB809569D0ED8CDD017FAE66556]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P23H24M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[61126CB809569D0ED8CDD017FAE66556:mx12316743480:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P23H56M12S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[61126CB809569D0ED8CDD017FAE66556:mx4567269090:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx4959391900:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P23H56M16S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6427E77359CE37F496D0DC309F4BF18A]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT19H15M39S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6427E77359CE37F496D0DC309F4BF18A:mx6478196410:(emxCreateProcess_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT20H30M52S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT21H46M45S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx12675625430:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT23H3M21S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx16442099970:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P2DT16M16S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx16629570260:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P2DT18M2S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx16980120730:(emxCreateProcess_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT22H22M56S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx21396786070:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P2DT4M2S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx3995860050:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT23H6M8S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx4576191430:(emxEngRMBIntermediate_jsp.java:292)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>select.bosBusinessObject</command>
+        <idle>P1DT23H40M38S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx6180678360:(emxEngPartWhereUsedIntermediate_jsp.java:298)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P2DT9M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[6E54E713DF5C08BD6A9CD9CFF4659189:mx8952522380:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT23H35M6S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[70AD30AAA65A9899B57E53A7035BF7E3]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT17H13M34S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[70AD30AAA65A9899B57E53A7035BF7E3:mx21422999080:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>getLicenseInfo.bosNamedUserLicense</command>
+        <idle>P18H20M52S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[85621FE361A66145F0FBBA6F593AA2C6]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P16H26M35S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[85621FE361A66145F0FBBA6F593AA2C6:mx50936950:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H58M5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[85621FE361A66145F0FBBA6F593AA2C6:mx6907471870:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx20214782140:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13000</thread>
+        <command>update.bosBusinessObject</command>
+        <idle>P16H58M8S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[85621FE361A66145F0FBBA6F593AA2C6:mx7425995480:(IEFCommandsServlet.java:187)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H57M13S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[913F83DBA2B7A2CDB97EE1AC6852FB13]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>get_user.bosContext</command>
+        <idle>P5M24S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[94249918B2E36DEE353D81AB10ABA668]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H59M36S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[94249918B2E36DEE353D81AB10ABA668:mx10337763730:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT22H33M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[94249918B2E36DEE353D81AB10ABA668:mx8503318250:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT21H40M0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[94249918B2E36DEE353D81AB10ABA668:mx9546502140:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT22H12M37S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[959AA228673C7A129156A27468079C7C]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P5DT14H52M13S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[959AA228673C7A129156A27468079C7C:mx4166893220:(emxFormViewDisplay_jsp.java:484)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P5DT15H23M9S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A63A24CC0C33AEFAA1EFBAC3F56F64E1]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[Shams_m]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT21H19M44S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A63A24CC0C33AEFAA1EFBAC3F56F64E1:mx3557644780:(IEFCommandsServlet.java:187)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[Shams_m]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT21H19M44S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A64B5C12F92DA8BFF39B8F9A6C047BFF]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P19H40M42S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A64B5C12F92DA8BFF39B8F9A6C047BFF:mx15481497120:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P20H12M17S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A64B5C12F92DA8BFF39B8F9A6C047BFF:mx6026338790:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx12840061270:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P20H12M18S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A8D8F6198BD3306AEB3FA2ED574AF8B7]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT1H4M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A8D8F6198BD3306AEB3FA2ED574AF8B7:mx16251423410:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx8054802420:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT1H37M57S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[A8D8F6198BD3306AEB3FA2ED574AF8B7:mx8894625340:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8736</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P1DT1H37M54S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[B5F260195FD086F18A1FA413F4203181]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P18H33M40S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[B5F260195FD086F18A1FA413F4203181:mx15644844540:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P19H5M14S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[B5F260195FD086F18A1FA413F4203181:mx7416894980:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx56896050:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[admin_platform]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P19H5M15S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT18H10M29S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E:mx13955921340:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H18M2S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E:mx18622405640:(emxSyncronizeWithVPLM_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[vplm]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H33M4S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E:mx3953541800:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H48M4S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E:mx7072472350:(emxEngrPartBOMAddExisting_jsp.java:414)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H34M51S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E:mx7389097850:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H45M48S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[C3FC5F111308EA5FBBB73BE6B19CD74E:mx9953577270:(emxSyncronizeWithVPLM_jsp.java:394)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[vplm]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT20H31M10S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CDEAC15503C72A433C5C22084A85E498]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P16H44M36S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CDEAC15503C72A433C5C22084A85E498:mx13926342830:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P17H17M59S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CDEAC15503C72A433C5C22084A85E498:mx15782810170:(IEFCommandsServlet.java:522)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>set.bosContext</command>
+        <idle>P17H25M55S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CDEAC15503C72A433C5C22084A85E498:mx18345971040:(IEFCommandsServlet.java:187)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P17H24M11S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CDEAC15503C72A433C5C22084A85E498:mx4723966060:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P17H25M43S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CDEAC15503C72A433C5C22084A85E498:mx7044735400:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P17H26M0S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CF936E3DCC86F45F26293C2FF0D1E054]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P16H27M35S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CF936E3DCC86F45F26293C2FF0D1E054:mx14944839060:(IEFCommandsServlet.java:187)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>16228</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P16H58M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[CF936E3DCC86F45F26293C2FF0D1E054:mx6011154950:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>18916</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P17H1M7S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D1DE86E32C028CD47A3B9275C2719D4C]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT20H47M43S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D1DE86E32C028CD47A3B9275C2719D4C:mx12125392090:(emxEngrDocumentAddExistingIntermediate_jsp.java:314)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1DT21H18M43S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D1DE86E32C028CD47A3B9275C2719D4C:mx1265098980:(emxEngrAddExistingSpecsAndMarkupsConnect_jsp.java:302)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>11696</thread>
+        <command>getClientTask.bosContext</command>
+        <idle>P1DT21H18M16S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D1DE86E32C028CD47A3B9275C2719D4C:mx8538876520:(enoDisconnectPart_jsp.java:293)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT21H38M5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D1DE86E32C028CD47A3B9275C2719D4C:mx935627050:(emxpartDisconnectBOM_jsp.java:299)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>4124</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P1DT21H38M6S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P22H30M49S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx10391394390:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P23H18M9S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx11214201550:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx18407037830:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P23H18M33S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx11872833790:(emxEngrValidation_jsp.java:302)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P23H17M59S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx14470755050:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P23H18M12S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx2089493410:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>9052</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P23H18M30S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx5998333120:(emxEngineeringCentralFormValidation_jsp.java:298)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>21432</thread>
+        <command>open.bosPolicy</command>
+        <idle>P23H18M5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx7355694950:(emxFreezePaneGetData_jsp.java:406)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P23H18M11S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D2FA15BB8238C67A0BCD919B2AE03AF9:mx8631173660:(RestService.java:96)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>13404</thread>
+        <command>commit.bosContext</command>
+        <idle>P23H18M12S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D5C2AE4D27F06CCFD69C5FD7347769F3]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT8M53S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D5C2AE4D27F06CCFD69C5FD7347769F3:mx16396908300:(emxNavigator_jsp.java:481)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>19108</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P1DT1H1M2S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[D5C2AE4D27F06CCFD69C5FD7347769F3:mx20607123380:(EXC_005femxSecurityContextSelectionProcess_jsp.java:177):mx3880782440:EXCPersonLicenseCheckBase]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT1H1M5S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[E45B5BB2976A32645D392E2A77B2DAFF]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT20H7M41S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[E45B5BB2976A32645D392E2A77B2DAFF:mx11829166800:(emxFormEditDisplay_jsp.java:456)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT20H40M12S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[E45B5BB2976A32645D392E2A77B2DAFF:mx2626290540:(emxFormEditProcess_jsp.java:395)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P1DT20H38M47S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[F99BC5C610CE23010E15EE9DB8DFBAA4]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER2]]></user>
+        <loggedIn>false</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>17188</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P3DT23H44M42S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[F99BC5C610CE23010E15EE9DB8DFBAA4:mx11619718770:(emxTaskCompleteProcess_jsp.java:707)]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[USER2]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Production]]></vault>
+        <thread>8216</thread>
+        <command>freeContext.bosInterface</command>
+        <idle>P4DT19M1S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[mx11051803670]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[User Agent]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[ADMINISTRATION]]></vault>
+        <thread>10864</thread>
+        <command>executeCmdWithFormat.bosMQLCommand</command>
+        <idle>P7S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+    <contextObject>
+        <sessionId><![CDATA[mx11264376250]]></sessionId>
+        <current>false</current>
+        <busy>false</busy>
+        <user><![CDATA[User Agent]]></user>
+        <loggedIn>true</loggedIn>
+        <tenant><![CDATA[]]></tenant>
+        <vault><![CDATA[eService Sample]]></vault>
+        <thread>21432</thread>
+        <command>commit.bosContext</command>
+        <idle>P5M49S</idle>
+        <cacheSize>0</cacheSize>
+    </contextObject>
+
+
+    <summary>
+        <sessionCacheSize> 0</sessionCacheSize>
+        <numThreads>46</numThreads>
+        <dbConnects>40</dbConnects>
+        <dbDisconnects>0</dbDisconnects>
+        <dbConnectsExceedPool>0</dbConnectsExceedPool>
+        <dbConnectAffinityMisses>0</dbConnectAffinityMisses>
+        <sqlStmtsExecuted>3565694</sqlStmtsExecuted>
+        <sqlStmtsParsed>83653</sqlStmtsParsed>
+        <stateful>885379</stateful>
+        <stateless>2229689</stateless>
+        <transStarted>1921113</transStarted>
+        <transCommitted>1920501</transCommitted>
+        <transAborted>611</transAborted>
+        <transTimedOut>0</transTimedOut>
+        <exceptions>1350</exceptions>
+        <adminHandleOpen>24679231</adminHandleOpen>
+        <instanceHandleOpen>707925</instanceHandleOpen>
+        <maxProgramDepth>11</maxProgramDepth>
+        <maxConcurrentThreads>1</maxConcurrentThreads>
+        <freeTclInterp>10</freeTclInterp>
+        <busyTclInterp>0</busyTclInterp>
+        <systemAlerts>0</systemAlerts>
+        <systemAlertsQueued>0</systemAlertsQueued>
+        <systemAlertsFlushed>0</systemAlertsFlushed>
+        <systemAlertsSent>0</systemAlertsSent>
+        <memoryHighwater>239564764</memoryHighwater>
+        <memoryBytesAllocated>108942580</memoryBytesAllocated>
+        <memoryBlocksAllocated>9990</memoryBlocksAllocated>
+        <memoryBytesReserved>38125568</memoryBytesReserved>
+        <memoryBlocksReserved>2327</memoryBlocksReserved>
+        <memorySystemLimit>8589934592</memorySystemLimit>
+        <memoryCacheLimit>0</memoryCacheLimit>
+        <startDateTime>1636471042</startDateTime>
+        <upTime>489277  </upTime>
+        <jvmTotalMemory>2119696384</jvmTotalMemory>
+        <jvmMaxMemory>2119696384</jvmMaxMemory>
+        <jvmFreeMemory>476178160</jvmFreeMemory>
+        <jvmMemoryInUse>1643518224</jvmMemoryInUse>
+        <jvmAvailableProcessors>12</jvmAvailableProcessors>
+    </summary>
+</monitorContext>

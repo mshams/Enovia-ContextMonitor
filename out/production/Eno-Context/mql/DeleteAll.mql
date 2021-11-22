@@ -1,0 +1,8 @@
+del table Ext_MonitorContext system;
+del portal Ext_MonitorContextPortal;
+del form Ext_MonitorContextSummaryForm;
+del command Ext_MonitorContextViewSessions;
+del command Ext_MonitorContextViewSummary;
+del command Ext_MonitorContextCmdPortal;
+del channel Ext_MonitorContextSessions;
+del channel Ext_MonitorContextSummary;

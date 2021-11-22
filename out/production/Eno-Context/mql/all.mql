@@ -1,0 +1,25 @@
+verbose on;
+
+run DeleteAll.mql;
+
+run CreateTable.mql;
+run CreateCommand.mql;
+run CreateChannel.mql;
+run CreatePortal.mql;
+run CreateForm.mql;
+
+tcl;
+cd {..}
+exit
+
+insert prog jpo\Monitor_mxJPO.java;
+insert prog jpo\MonitorTable_mxJPO.java;
+insert prog jpo\dto\ContextObject_mxJPO.java;
+insert prog jpo\dto\MonitorObject_mxJPO.java;
+insert prog jpo\dto\SummaryObject_mxJPO.java;
+
+compile prog jpo.dto.SummaryObject force;
+compile prog jpo.dto.ContextObject force;
+compile prog jpo.dto.MonitorObject force;
+compile prog jpo.Monitor force;
+compile prog jpo.MonitorTable force;

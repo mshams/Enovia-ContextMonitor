@@ -1,0 +1,7 @@
+add form Ext_MonitorContextSummaryForm description "Monitor Summary";
+mod form Ext_MonitorContextSummaryForm web field name body label 'Body' order 1
+  setting Editable false
+  setting "Field Type" ProgramHTMLOutput
+  setting "Hide Label" true
+  setting function getSummaryAsHTML
+  setting program jpo.MonitorTable;

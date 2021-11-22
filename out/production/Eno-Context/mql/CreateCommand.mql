@@ -1,0 +1,17 @@
+add command Ext_MonitorContextViewSessions description "View Sessions" label "Sessions"
+  href '${COMMON_DIR}/emxTable.jsp?program=jpo.MonitorTable:getMonitorLines&table=Ext_MonitorContext&header=Monitor Context'
+  setting 'Registered Suite' 'EngineeringCentral'
+  setting 'Target Location' 'content';
+
+add command Ext_MonitorContextViewSummary description "View Summary" label "Summary"
+  href '${COMMON_DIR}/emxForm.jsp?form=Ext_MonitorContextSummaryForm'
+  setting 'Registered Suite' 'EngineeringCentral'
+  setting 'Target Location' 'content';
+
+add command Ext_MonitorContextCmdPortal description "Monitor Context" label "Monitor Context"
+  href '${COMMON_DIR}/emxPortal.jsp?portal=Ext_MonitorContextPortal'
+  setting 'Registered Suite' 'EngineeringCentral'
+  setting 'Target Location' 'content';
+
+modify menu AdminTools add command Ext_MonitorContextCmdPortal;
+modify menu Ext_Support add command Ext_MonitorContextCmdPortal;
