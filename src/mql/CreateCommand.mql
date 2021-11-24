@@ -8,7 +8,7 @@ add command Ext_MonitorContextViewSummary description "View Summary" label "Summ
   setting 'Registered Suite' 'EngineeringCentral'
   setting 'Target Location' 'content';
 
-add command Ext_MonitorContextCmdPortal description "Monitor Context" label "Monitor Context"
+add command Ext_MonitorContextCmdPortal description "Context Monitor" label "Monitor Context"
   href '${COMMON_DIR}/emxPortal.jsp?portal=Ext_MonitorContextPortal'
   setting 'Registered Suite' 'EngineeringCentral'
   setting 'Target Location' 'content';
