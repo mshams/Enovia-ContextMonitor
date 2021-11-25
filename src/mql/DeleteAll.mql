@@ -1,4 +1,5 @@
 del table Ext_MonitorContext system;
+del table Ext_MonitorContextSummary system;
 del portal Ext_MonitorContextPortal;
 del form Ext_MonitorContextSummaryForm;
 del command Ext_MonitorContextViewSessions;

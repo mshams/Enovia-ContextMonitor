@@ -4,7 +4,7 @@ add command Ext_MonitorContextViewSessions description "View Sessions" label "Se
   setting 'Target Location' 'content';
 
 add command Ext_MonitorContextViewSummary description "View Summary" label "Summary"
-  href '${COMMON_DIR}/emxForm.jsp?form=Ext_MonitorContextSummaryForm'
+  href '${COMMON_DIR}/emxTable.jsp?program=jpo.MonitorTable:getSummaryLines&table=Ext_MonitorContextSummary&header=Context Summary'
   setting 'Registered Suite' 'EngineeringCentral'
   setting 'Target Location' 'content';
 
