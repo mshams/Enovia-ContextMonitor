@@ -18,8 +18,10 @@ import java.util.Vector;
 public class MonitorTable_mxJPO {
     private final String PARAM_NAME = "paramName";
     private final String PARAM_VALUE = "paramVal";
-    private final String HTML_STATR = "<html><body>";
+    private final String HTML_START = "<html><body>";
     private final String HTML_END = "</body></html>";
+    private final String HTML_PR_START = "<p>";
+    private final String HTML_PR_END = "</p>";
 
     @com.matrixone.apps.framework.ui.ProgramCallable
     public MapList getMonitorLines(Context context, String[] args) throws Exception {
@@ -69,12 +71,12 @@ public class MonitorTable_mxJPO {
 
             StringBuilder result = new StringBuilder("");
             for (String line : lines) {
-                result.append("<p>");
+                result.append(HTML_PR_START);
                 result.append(line);
-                result.append("</p>");
+                result.append(HTML_PR_END);
             }
 
-            return HTML_STATR + result + HTML_END;
+            return HTML_START + result + HTML_END;
         } catch (
                 Exception e) {
             throw new Exception("getSummaryAsHTML", e);
