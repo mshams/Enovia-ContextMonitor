@@ -58,3 +58,15 @@ mod table Ext_MonitorContext system column name "cacheSize" label "Cache Size" o
   setting 'Column Type' 'program'
   setting 'program' 'jpo.MonitorTable'
   setting 'function' 'getParamByColumnName';
+
+
+add table Ext_MonitorContextSummary system description "Monitor Summary";
+mod table Ext_MonitorContextSummary system column name "paramName" label "Parameter Name" order 1
+  setting 'Column Type' 'program'
+  setting 'program' 'jpo.MonitorTable'
+  setting 'function' 'getParamByColumnName';
+
+mod table Ext_MonitorContextSummary system column name "paramVal" label "Parameter Value" order 2
+  setting 'Column Type' 'program'
+  setting 'program' 'jpo.MonitorTable'
+  setting 'function' 'getParamByColumnName';

@@ -1,2 +1,2 @@
-add channel Ext_MonitorContextSessions description "Sessions" label "Sessions" command Ext_MonitorContextViewSessions;
-add channel Ext_MonitorContextSummary description "Summary" label "Sessions" command Ext_MonitorContextViewSummary;
+add channel Ext_MonitorContextSessions description "Sessions" label "Sessions"
+    command Ext_MonitorContextViewSessions command Ext_MonitorContextViewSummary;
